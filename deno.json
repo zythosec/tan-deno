@@ -1,0 +1,13 @@
+{
+  "fmt": {
+    "exclude": [
+      ".git",
+      "node_modules/",
+      "dist/",
+      ".vscode",
+      ".tanstack",
+      ".vite",
+      "app/routeTree.gen.ts"
+    ]
+  }
+}
